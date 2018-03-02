@@ -1,0 +1,18 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+.thumbnail img{
+  max-height: 150px;
+}
+.thumbnail .description{
+  color: rgba(226, 55, 43, 0.857); 
+}
+.thumbnail .price{
+  font-weight: bold;
+  font-size: 16px;
+}
